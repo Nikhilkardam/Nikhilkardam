@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nikhilkardam
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...MERN Stack
+- 👀 SDET by profession
 - 📫 7838284765
 -     nikhilkardam222@gmail.com
 
